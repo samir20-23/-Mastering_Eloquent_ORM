@@ -11,4 +11,6 @@ interface RunnerInterface
     public const EXCEPTION_EXIT = 2;
 
     public function run(): int;
+
+    // test
 }
